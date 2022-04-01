@@ -11,7 +11,7 @@
 <body>
     <div class="nav">
         <ul>
-            <li><a href="Index.html">Home<i class="fa fa-home"></i></a></li>
+            <li><a href="Index.html">Homies<i class="fa fa-home"></i></a></li>
             <li><a href="#">About us<i class="fa fa-user"></i></a>
             <div class="sub1">
                 <ul>
