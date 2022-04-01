@@ -16,9 +16,9 @@
             <div class="sub1">
                 <ul>
                     <li><a href="Vietnam/Map.html" target="_blank">Map</a></li>
-                    <li><a href="Leaders.html" target="_blank">Leaders</a></li>
-                    <li><a href="History.html" target="_blank">History</a></li>
-                    <li><a href="Cultureviet.html" target="_blank">Culture</a></li>
+                    <li><a href="Vietnam/Leaders.html" target="_blank">Leaders</a></li>
+                    <li><a href="Vietnam/History.html" target="_blank">History</a></li>
+                    <li><a href="Vietnam/Cultureviet.html" target="_blank">Culture</a></li>
                 </ul>
             </div>
         </li>
@@ -26,13 +26,13 @@
             <li><a href="#">Foods<i class="fa fa-cutlery"></i></a>
             <div class="sub2">
                 <ul>
-                    <li><a href="Streetfood.html" target="_blank">Street Foods</a></li>
-                    <li><a href="5star.html" target="_blank">5 Star Dinning</a></li>
-                    <li><a href="Exoticfood.html" target="_blank">Exotic</a></li>
+                    <li><a href="Vietnam/Streetfood.html" target="_blank">Street Foods</a></li>
+                    <li><a href="Vietnam/5star.html" target="_blank">5 Star Dinning</a></li>
+                    <li><a href="Vietnam/Exoticfood.html" target="_blank">Exotic</a></li>
                 </ul>
             </div>
         </li>
-            <li><a href="TouristSpot.html" target="_blank">Tourist spots<i class="fa fa-map-marker"></i></a></li>
+            <li><a href="Vietnam/TouristSpot.html" target="_blank">Tourist spots<i class="fa fa-map-marker"></i></a></li>
         </ul>
     </div>
     <video autoplay muted loop id="Video">
@@ -41,7 +41,7 @@
     <div class="tagline">
         <h1>Vietnam</h1>
         <h2>Land of the Ascending Dragon</h2>   
-        <a href="TouristSpot.html" target="_blank"><button  class="bttn" type="button">Explore</button></a>
+        <a href="Vietnam/TouristSpot.html" target="_blank"><button  class="bttn" type="button">Explore</button></a>
     </div>
         <div class="Biography">
             <div class="Box1"></div>
@@ -55,7 +55,7 @@
                 <h5>Duration: 8 Days</h5>
                 <h6>Prices From: US$ 1,579</h6>
                 <p>Trip Type: Private Experiences, Single Friendly, Tailor-made Travel Ideas</p>
-                <a href="TouristSpot.html" target="_blank"><button class="button1" type="button">View more</button>
+                <a href="Vietnam/TouristSpot.html" target="_blank"><button class="button1" type="button">View more</button>
                 </div>
             <div class="Circle"></div>
           </div>
@@ -64,13 +64,13 @@
     </div>
     <div class="Exploreimgs">
     <div class="banners">
-        <a href="Leaders.html" target="_blank"><img src='Images/0-viet.jpg'></a>
+        <a href="Vietnam/Leaders.html" target="_blank"><img src='Images/0-viet.jpg'></a>
     </div>
     <div class="banners1">
         <img src='Images/banh-mi.jpg'>
     </div>
     <div class="banners2">
-        <a href="Map.html" target="_blank"><img src='Images/History of Vietnam Banner.jpg'></a>
+        <a href="Vietnam/Map.html" target="_blank"><img src='Images/History of Vietnam Banner.jpg'></a>
     </div>
     <div class="banners3">
         <img src='Images/VietnamTouristspot.jpg'>
