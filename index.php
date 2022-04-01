@@ -7,7 +7,7 @@
     <h1>Welcome to My Website! I am Michael John Diopenes! </h1>
     <div class="nav">
         <ul>
-            <li><a href="#">Home<i class="fa fa-home"></i></a></li>
+            <li><a href="Home.html">Home<i class="fa fa-home"></i></a></li>
             <li><a href="#">About us<i class="fa fa-user"></i></a>
             <div class="sub1">
                 <ul>
